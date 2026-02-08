@@ -1,6 +1,6 @@
-# Anota-es
+# Notas
 
-ia
+az
 <img width="994" height="700" alt="image" src="https://github.com/user-attachments/assets/dc006c90-f30f-4dff-b293-70d7417efe5d" />
 
 <img width="994" height="656" alt="image" src="https://github.com/user-attachments/assets/d33ac5f6-07e0-41da-9f75-27fb45d08959" />
